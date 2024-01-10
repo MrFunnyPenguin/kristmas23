@@ -1,0 +1,1 @@
+Patterns from my 2023 Christmas Light Sequence. Download & Install the Arduino IDE to use, also make sure you have the free FastLED library add on installed as well which is required for the code to compile correctly.
